@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.eventimage {
+  width: 50px;
+}
+
+.fc .fc-daygrid-event {
+  text-align: center;
+  background: transparent;
+  border: none;
+}
+
+.fc .fc-daygrid-event p {
+  color: blue;
+}
